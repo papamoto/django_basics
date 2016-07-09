@@ -1,0 +1,4 @@
+*.pyp[cod]
+__pycache__
+django_crash_course/
+*.sqlite3
